@@ -1,5 +1,6 @@
-def calcular_subtotal(orecio, cantidad):
-    return precio 
+def calcular_subtotal(precio, cantidad):
+    subtotal = precio * cantidad 
+    return subtotal
 precio = 80
 cantidad = 3
 subtotal = calcular_subtotal(precio,cantidad)
